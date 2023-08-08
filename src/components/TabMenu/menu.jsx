@@ -5,7 +5,7 @@ const Menu = [
        name:"Maggi",
        category: "breakfast",
        price: "12₹",
-       description: 'Instant noodle brand, quick to prepare, popular worldwide, diverse flavors, convenient snack, loved by all ages, iconic comfort food.'
+       description: 'Instant noodle brand,quick to prepare,popular worldwide,loved by all ages,iconic comfort food.'
    },
  
    {
@@ -14,7 +14,7 @@ const Menu = [
        name:"Allu Pakoda",
        category: "evening",
        price: "20₹",
-       description: 'Crispy Indian fritters, made from sliced potatoes, gram flour batter, deep-fried, savory snack, enjoyed during monsoons, flavorful indulgence.'
+       description: 'Crispy Indian fritters,made from sliced potatoes,gram flour batter, deep-fried, savory snack.'
    },
    {
        id: 3,
@@ -22,7 +22,7 @@ const Menu = [
        name:"Corn",
        category: "breakfast",
        price: "10₹",
-       description: 'Versatile cereal grain, yellow or white kernels, used in dishes worldwide, popcorn, cornbread, tortillas, rich in nutrients, staple crop.'
+       description: 'Versatile cereal grain,yellow or white kernels used in dishes worldwide,popcorn,cornbread.'
    },
     {
        id: 4,
@@ -30,7 +30,7 @@ const Menu = [
        name:"Chole",
        category: "lunch",
        price: "50₹",
-       description: 'Indian chickpea curry, spiced and tangy, protein-rich, popular street food, paired with bhature or rice, flavorful North Indian delight.'
+       description: 'Indian chickpea curry,spiced and tangy,protein-rich,popular street food, paired with bhature.'
    },
      {
        id: 5,
@@ -38,7 +38,7 @@ const Menu = [
        name:"Pizza",
        category: "evening",
        price: "80₹",
-       description: 'Iconic Italian dish, thin crust topped with tomato sauce, cheese, and various toppings, baked to perfection, beloved global comfort food.'
+       description: 'Iconic Italian dish,thin crust topped with tomato sauce,cheese,and various toppings.'
    },
       {
        id: 6,
@@ -46,7 +46,7 @@ const Menu = [
        name:"Non-Veg Thali",
        category: "dinner",
        price: "180₹",
-       description: 'Assortment of diverse meat dishes, rice, bread, and accompaniments, satisfying and flavorful meal, reflects regional tastes, carnivorous delight.'
+       description: 'Assortment of diverse meat dishes,rice,bread and accompaniments, satisfying and flavorful meal.'
    },
        {
        id: 7,
@@ -54,7 +54,7 @@ const Menu = [
        name:"Sweets",
        category: "dinner",
        price: "60₹",
-       description: 'Delectable assortment of sugary treats, colorful and tempting, showcases traditional desserts, perfect for celebrations, a delightful sugar symphony.'
+       description: 'Delectable assortment of sugary treats,colorful and tempting,showcases traditional desserts.'
    },
        {
        id: 8,
@@ -62,7 +62,7 @@ const Menu = [
        name:"Rajma Rice",
        category: "lunch",
        price: "60₹",
-       description: 'Classic North Indian combo, tender kidney bean curry served with aromatic rice, harmonious blend of flavors, wholesome comfort.'
+       description: 'Classic North Indian combo,tender kidney bean curry served with aromatic rice.'
    },
        {
        id: 9,
@@ -70,7 +70,7 @@ const Menu = [
        name:"Samaso",
        category: "evening",
        price: "10₹",
-       description: 'Triangular pastry, crisp exterior, spiced potato or meat filling, popular Indian snack, savory indulgence, often served with chutney.'
+       description: 'Triangular pastry, crisp exterior,spiced potato or meat filling,popular Indian snack served with chutney.'
    },
 ];
 
